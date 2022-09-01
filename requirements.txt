@@ -1,0 +1,2 @@
+xmltodict~=0.13.0
+pyang>=2.5.3
